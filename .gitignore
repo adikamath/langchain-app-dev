@@ -1,0 +1,5 @@
+# ignore the .env file that contain the API keys 
+.env
+
+#ignore the Python virtual environment 
+/venv-langhchain-app-dev 
