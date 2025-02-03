@@ -2,4 +2,4 @@
 .env
 
 #ignore the Python virtual environment 
-/venv-langhchain-app-dev 
+/venv-langchain-app-dev 
